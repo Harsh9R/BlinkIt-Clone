@@ -1,4 +1,4 @@
-cdcdBuild a complete e-commerce platform that looks like Blinkit using the MERN stack! In this project, we will create an online shopping site with key features, including product uploads, an admin panel, and management for categories and subcategories. We will use access and refresh tokens to establish secure user authentication. You will also learn how to set up password recovery, OTP-based email verification, and secure authentication processes. This project is a great way to improve your skills in MongoDB, Express, React, and Node.js.
+Build a complete e-commerce platform that looks like Blinkit using the MERN stack! In this project, we will create an online shopping site with key features, including product uploads, an admin panel, and management for categories and subcategories. We will use access and refresh tokens to establish secure user authentication. You will also learn how to set up password recovery, OTP-based email verification, and secure authentication processes. This project is a great way to improve your skills in MongoDB, Express, React, and Node.js.
 
 # Project Setup
 1. cd server
@@ -26,6 +26,3 @@ cdcdBuild a complete e-commerce platform that looks like Blinkit using the MERN 
 👉 VITE_API_URL = http://localhost:8080
 👉 VITE_STRIPE_PUBLIC_KEY = 
 👉 STRIPE_SECRET_KEY = 
-
-# Assets File
-Google Drive : https://drive.google.com/drive/folders/1QFLiEZF7nsTH8nhdh4MBgpjX9wM1AF2c
